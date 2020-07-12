@@ -1,0 +1,29 @@
+{
+  "name": "teambuilder",
+  "version": "1.0.0",
+  "description": "Console program to create teams and contact cards",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^7.3.1"
+  },
+  "devDependencies": {
+    "jest": "^26.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theodorebutts/teamBuilder.git"
+  },
+  "author": "THEODOREBUTTS.COM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theodorebutts/teamBuilder/issues"
+  },
+  "homepage": "https://github.com/theodorebutts/teamBuilder#readme"
+}
